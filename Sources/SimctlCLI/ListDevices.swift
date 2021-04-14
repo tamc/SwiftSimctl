@@ -1,5 +1,5 @@
 //
-//  SimctlCLI.swift
+//  ListDevices.swift
 //
 //
 //  Created by Christian Treffs on 18.03.20.
